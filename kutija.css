@@ -8,6 +8,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
+	margin-top: 200px;
 }
 
 .sadrzaj {
@@ -16,7 +17,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	margin-top: 700px;
+	margin-top: 200px;
 	font-size: 18px;
 }
 
