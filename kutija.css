@@ -58,6 +58,6 @@ div {
 	font-family: sans-serif;
 }
 
-.p {
-	text-decoration: bold;
+p {
+	font-weight: bold;
 }
