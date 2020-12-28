@@ -57,3 +57,7 @@ body {
 div {
 	font-family: sans-serif;
 }
+
+.p {
+	text-decoration: bold;
+}
