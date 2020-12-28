@@ -1,6 +1,6 @@
 @viewport {
-  width: device-width ;
-  zoom: 1.0 ;
+  width: device-width;
+  zoom: 1.5;
 } 
 
 body {
@@ -8,7 +8,6 @@ body {
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	margin-top: 700px;
 }
 
 .sadrzaj {
