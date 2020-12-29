@@ -1,15 +1,15 @@
-@viewport {
-  height: device-height;
-  width: device-width;
-  zoom: 1.0;
-} 
-
 body {
 	background-image: url("https://images.pexels.com/photos/754262/pexels-photo-754262.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
+}
+
+@media only screen and (max-width: 767px) {
+  body {
+    background-image: url("https://images.pexels.com/photos/754262/pexels-photo-754262.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  }
 }
 
 .sadrzaj {
