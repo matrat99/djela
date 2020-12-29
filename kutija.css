@@ -4,13 +4,6 @@
   zoom: 1.0;
 } 
 
-body {
-	background-image: url("https://images.pexels.com/photos/754262/pexels-photo-754262.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-
 .sadrzaj {
 	display: flex;
 	flex-direction: column;
