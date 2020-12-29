@@ -1,6 +1,10 @@
 @media only screen and (min-width: 400px) {
   body { 
-     background-image: url("fotka.jpg"); 
+     background-image: url("fotka.jpg");
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size: cover;
+     background-attachment: fixed;
   }
 }
 
