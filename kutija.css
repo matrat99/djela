@@ -1,15 +1,15 @@
+@media only screen and (max-width: 400px) {
+  body { 
+     background-image: url("fotka.jpg"); 
+  }
+}
+
 body {
 	background-image: url("mala_fotka.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
-}
-
-@media only screen and (max-width: 400px) {
-  body { 
-     background-image: url("fotka.jpg"); 
-  }
 }
 
 .sadrzaj {
