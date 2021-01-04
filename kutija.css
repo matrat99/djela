@@ -75,7 +75,7 @@ div {
 }
 
 img {
-	position: relative;
+	position: absolute;
 	left: 0px;
-	top: 0px;
+	top: 80px;
 }
