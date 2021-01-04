@@ -5,7 +5,7 @@ var djela = [
 	"Jedan dan misli samo pozitivno.",
 	"Jedan se dan suzdrži od prigovaranja.",
 	"Pitaj barem 2 drage osobe kako su provele dan.",
-	"Nappiši pismo starijoj osobi i ubaci joj u sandučić.",
+	"Napiši pismo starijoj osobi i ubaci joj u sandučić.",
 	"Nahrani ptičice u parku.",
 	"Operi odjeću koju više ne koristiš i pokloni ju.",
 	"Oprosti nekome tko te povrijedio i na koga si se ljutio.",
