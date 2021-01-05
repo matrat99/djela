@@ -12,7 +12,7 @@ body {
 	background-image: url("mala_fotka.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-size: cover;
+	background-size: 100%;
 	background-attachment: fixed;
 	display: flex;
 	flex-direction: column;
@@ -84,5 +84,5 @@ img {
 	width: 20%;
 	height: auto;
 	right: 55px;
-	bottom: 0px;
+	bottom: 30px;
 }
