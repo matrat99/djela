@@ -14,13 +14,13 @@ body {
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 .sadrzaj {
 	position: relative;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
 	margin-top: 100px;
     	width: 80%;
     	height: 70%;
