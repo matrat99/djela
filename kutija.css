@@ -18,6 +18,9 @@ body {
 
 .sadrzaj {
 	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 	margin-top: 100px;
     	width: 80%;
     	height: 70%;
